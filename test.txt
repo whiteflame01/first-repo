@@ -1,3 +1,12 @@
-This is my  Commit!!
+git --version / git -v
 
-Changes will reflect in the 2nd commit.
+git status
+
+git init (Only once per a File at the begining.)
+
+git add .(to add all files to staging area) / git add <fileName> <fileName>
+
+git commit -m "Message regarding the commit you just made."
+
+git log
+
