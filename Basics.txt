@@ -1,0 +1,32 @@
+git --version / git -v
+
+git status
+
+git init (Only once per a File at the begining.)
+
+git add .(to add all files to staging area) / git add <fileName> <fileName>
+
+git commit -m "Message regarding the commit you just made."
+
+git log / git log -oneline
+
+git branch (to show all thr branches and in which branch you are currently.)
+
+git branch bugfix
+
+git switch -c <branchName> / git checkout -b <branchName> (Create a branch and move into that branch.)
+
+git branch <branchName> (to create a new branch)
+
+git checkout <branchName> (to go into a branch that has been already created.)
+
+git merge <fileName to merge> 
+
+git diff -stagged (lot of versions of this)
+
+git stashed
+
+git stashed pop
+
+
+ 
